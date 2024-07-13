@@ -1,0 +1,18 @@
+.form {
+  width: 400px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin: 10px 0;
+  border-radius: 4px;
+}
+
+.formLabel {
+  font-size: 20px;
+}
+
+.formBtn {
+  width: 100px;
+  padding: 0 auto;
+}

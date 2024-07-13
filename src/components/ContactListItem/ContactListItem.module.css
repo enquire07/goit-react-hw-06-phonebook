@@ -1,0 +1,13 @@
+.contactListItem {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+  gap: 30px;
+}
+button {
+  border-radius: 2px;
+  border: 1px solid;
+}
+button:hover {
+  background-color: aliceblue;
+}
