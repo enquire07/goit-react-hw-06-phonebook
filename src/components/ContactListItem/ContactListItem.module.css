@@ -1,7 +1,8 @@
 .contactListItem {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  margin-bottom: 4px;
+
   gap: 20px;
 }
 button {
