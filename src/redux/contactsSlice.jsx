@@ -1,4 +1,4 @@
-// src/redux/contactsSlice.js
+
 import { createSlice } from '@reduxjs/toolkit';
 import { nanoid } from 'nanoid';
 
